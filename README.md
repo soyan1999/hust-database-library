@@ -13,3 +13,4 @@ python3.6.5 Django2.2.1
 已创建超级用户admin，可以登录/admin/管理所有表
 已创建管理员admin1
 已创建用户soyan,soyan1999
+## 觉得好用可以给颗星星
